@@ -21,8 +21,6 @@
 ---
 
 # 工作经历
-（工作经历按逆序排列，最新的在最前边，按公司做一级分组，公司内按二级分组）
-
 ## 西安图灵网络有限公司 （ 2019年05月 - 至今 )
 
 ### 宝宝呵护家庭医生
@@ -33,7 +31,15 @@
   
   我已经具备独立设计与开发整个系统的能力， 并且能够不断对系统进行完善， 也能够带领团队与培养团队更有挑战的目标。 
   
-  使用技术： Nodejs Eggjs Nestjs Vue React Redis Mongodb K8s RocketMq git
+  使用技术：
+  #### 后端
+  > Nodejs Eggjs Nestjs python php
+  #### 前端
+  > Vue React Redis 小程序
+  #### 服务
+  > Mongodb K8s RocketMq mysql
+  #### 工具
+  > git vscode 等
 
 ### 数据分析
   
@@ -83,6 +89,7 @@
 - Web框架：Eggjs/Nestjs/Koa/Asp.net
 - 前端框架：VUE/React/Taro
 - 数据库相关：MySQL/Mongodb/Redis
+- 服务运维相关: k8s/docker/linux
 - 版本管理、文档和自动化部署工具：Git Yapi文档
 - 云和开放平台 微信开发平台/阿里云
 
