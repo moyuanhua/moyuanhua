@@ -16,7 +16,8 @@
 
  - 期望职位：NodeJS高级程序员/应用架构师/全栈工程师
  - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
- - 期望城市：长沙 / 西安
+ - 期望城市：长沙/深圳
+ - 目前状态: 离职/可随时到岗
 
 ---
 
@@ -97,12 +98,12 @@
 以下均为我熟练使用的技能
 
 - Web开发：Node/C#
-- Web框架：Eggjs/Nestjs/Koa/Asp.net
-- 前端框架：VUE/React/Taro
+- Web框架：Eggjs/midwayjs/Nestjs/Koa/Asp.net
+- 前端框架：VUE/React/Taro/EChart/GIS相关
 - 数据库相关：MySQL/Mongodb/Redis
-- 服务运维相关: k8s/docker/linux
+- 服务运维相关: k8s/docker/linux/流水线自动化测试部署
 - 版本管理、文档和自动化部署工具：Git Yapi文档
-- 云服务开放平台 微信开发平台/阿里云
+- 云服务开放平台-阿里云腾讯云 微信开发平台等
 
 
 # 致谢
