@@ -8,7 +8,7 @@
 # 个人信息
 
  - 莫远华/男/1993 
- - 本科/上海第二工业大学 
+ - 本科/计算机科学与技术/上海第二工业大学(2011-2015)
  - 工作年限：6年
  - 技术博客：https://www.jianshu.com/u/af5c43c21966
  - Github：https://github.com/moyuanhua #Arctic Code Vault Contribut
@@ -90,6 +90,8 @@
   4.  后端使用.net 前端使用javaScript，Vue， html等前端技术，参与上海城市网格大数据展示项目开发， 完成其中的地图数据模块。 对大屏展示有了初步探。
 
 
+## 上海航天动力科技工程有限公司 （2015年9月 ~ 2016年8月 ）
+  使用.net开发服务
 
 
 
