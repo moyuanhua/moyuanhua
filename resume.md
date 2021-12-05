@@ -15,8 +15,8 @@
  - LeetCode https://leetcode-cn.com/u/moyuanhua-3C7BtN50Gy/
 
  - 期望职位：NodeJS高级程序员/应用架构师/全栈工程师
- - 期望薪资：税后月薪18k~20k，特别喜欢的公司可例外
- - 期望城市：长沙/深圳
+ - 期望薪资：税后月薪20k+，特别喜欢的公司可例外
+ - 期望城市：无要求
  - 目前状态: 离职/可随时到岗
 
 ---
@@ -50,7 +50,7 @@
   
   ### 目前技术能力：
   #### 后端
-  > **Nodejs Eggjs Nestjs Python** 注重服务的拆分以及微服务架构的实现
+  > **Nodejs Eggjs Nestjs TypeScript** 注重服务的拆分以及微服务架构的实现
   #### 前端
   > **Vue React 小程序 Electron**  熟悉常用的CSS 对VUE等框架的核心功能掌握熟练 单独开发上线过前端项目(小程序  vue)
   #### 服务
