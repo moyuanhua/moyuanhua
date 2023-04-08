@@ -14,16 +14,48 @@
  - Github：https://github.com/moyuanhua #Arctic Code Vault Contribut
  - LeetCode https://leetcode-cn.com/u/moyuanhua-3C7BtN50Gy/
 
- - 期望职位：NodeJS高级程序员/应用架构师/全栈工程师
- - 期望薪资：税后月薪20k+，特别喜欢的公司可例外
+ - 期望职位：高级程序员/应用架构师/全栈工程师
+ - 期望薪资：税后月薪22k，特别喜欢的公司可例外
  - 期望城市：无要求
- - 目前状态: 离职/可随时到岗
+ - 目前状态: 在职
 
 ---
 
+# 技术能力
+  #### 平台能力
+  > 微信开放平台， shopify开放平台，google 开放平台等
+  
+  > aws云 腾讯云 阿里云等
+  #### 后端
+  > **Nodejs Eggjs Nestjs TypeScript** 注重服务的拆分以及微服务架构的实现
+  #### 前端
+  > **Vue React 小程序 Electron**  熟悉常用的CSS 对VUE等框架的核心功能掌握熟练 已独立开发上线10+小程序已经多个网站
+  #### 服务
+  > **Mongodb** 精通mongodb使用与查询 **mysql** 基本了解事务 数据库查询优化 熟练使用数据库触发器 熟练使用SQL语句
+
+  > **Redis** 了解Redis的原理 熟练掌握Redis的数据结构可以在不同的场景下使用合适的数据结构
+  
+  > **RocketMq**  **Kafka** 等消息队列 熟练掌握消息队列的使用场景
+
+  > **Docker  K8s Nginx** 掌握CI/CD自动化部署流程 了解实践过K8s运维部署 熟练掌握Docker命令 了解Nginx配置 了解负载均衡原理
+  
+  #### 工具
+  > **git vscode** 等常用开发工具
+  
+  > **Postman Swagger** 等API文档管理工具 
+
+  > 熟练使用chatgpt作为日常开发解决方案途径 能更快速的解决项目中遇见的问题
+ 
+
 # 工作经历
 
-## 独立开发者 (2021年9月 - 至今)  
+## 安克创新科技股份有限公司(2022/01 - 至今)
+  - 负责DTC官网CMS数据管理APP的开发韵味
+  - 在shopify平上进行应用开发
+  - 在google cloud平台上进行应用开发
+  - 实现droshipping商品分发系统 为部门业绩增长提升20%
+
+## 独立开发者 (2021年9月 - 2021年12月)  
   - 在某平台上独立承接项目 对接甲方和开发者 成功服务3个项目至今（1个主力，2个辅助）
   - 主力项目中承担项目的设计 开发 部署以及运维 落地实践docker ci/cd nginx 等技术 主要使用node开发后端服务
   - 辅助项目主要承担小程序开发 与管理后端开发(vue)
@@ -48,26 +80,6 @@
 
   经过这个项目的历练  我已经具备微服务系统设计与实践的能力，并实践了ci/cd 服务容化，具备全栈解决方案，并具备相应的技能落实。 
   
-  ### 目前技术能力：
-  #### 后端
-  > **Nodejs Eggjs Nestjs TypeScript** 注重服务的拆分以及微服务架构的实现
-  #### 前端
-  > **Vue React 小程序 Electron**  熟悉常用的CSS 对VUE等框架的核心功能掌握熟练 单独开发上线过前端项目(小程序  vue)
-  #### 服务
-  > **Mongodb** 精通mongodb使用与查询 **mysql** 基本了解事务 数据库查询优化 熟练使用数据库触发器 熟练使用SQL语句
-
-  > **Redis** 了解Redis的原理 熟练掌握Redis的数据结构可以在不同的场景下使用合适的数据结构
-  
-  > **RocketMq**  **Kafka** 等消息队列 熟练掌握消息队列的使用场景
-
-  > **Docker  K8s Nginx** 掌握CI/CD自动化部署流程 了解实践过K8s运维部署 熟练掌握Docker命令 了解Nginx配置 了解负载均衡原理
-  
-  > 
-  #### 工具
-  > **git vscode** 等常用开发工具
-  
-  > **Postman Swagger** 等API文档管理工具 
- 
 
 
 ## 西安哈勃信息技术有限公司(创业) （2017年9月 ~ 2019年3月 ）
@@ -101,18 +113,6 @@
   使用.net开发服务
 
 
-
-# 技能清单
-
-以下均为我熟练使用的技能
-
-- Web开发：Node/C#
-- Web框架：Eggjs/midwayjs/Nestjs/Koa/Asp.net
-- 前端框架：VUE/React/Taro/EChart/GIS相关
-- 数据库相关：MySQL/Mongodb/Redis
-- 服务运维相关: k8s/docker/linux/流水线自动化测试部署
-- 版本管理、文档和自动化部署工具：Git Yapi文档
-- 云服务开放平台-阿里云腾讯云 微信开发平台等
 
 
 # 致谢
